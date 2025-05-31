@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wenwen He's Homepage"
 description              : ""
-repository               : "WenddHe0119/WenddHe0119.github.io"
+repository               : "https://github.com/WenddHe0119/WenddHe0119.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
