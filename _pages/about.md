@@ -82,7 +82,7 @@ redirect_from:
 
 # Short Bio
 
-Hi there! This is Wenwen He (何文文), I am a first-year graduate student at [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [Guangdong University of Technology]([https://www.cs.sdu.edu.cn/](https://www.gdut.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail！
+Hi there! This is Wenwen He (何文文), I am a first-year graduate student at [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [Guangdong University of Technology](https://www.cs.sdu.edu.cn/）(https://www.gdut.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail！
 
 My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 
@@ -118,7 +118,7 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
   <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through
 Malicious Null Space in Federated Backdoor Attack</a></dd>
-  <dd>Wenwen He<sup>;</dd>
+  <dd>Wenwen He<sup></dd>
   <dd>Under Review</dd>
 </dl>
 
