@@ -118,7 +118,7 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
   <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through
 Malicious Null Space in Federated Backdoor Attack</a></dd>
-  <dd>Wenwen He<sup></dd>
+  <dd>Wenwen He</dd>
   <dd>Under Review</dd>
 </dl>
 
@@ -127,6 +127,5 @@ Malicious Null Space in Federated Backdoor Attack</a></dd>
 
 
 # 📖 Educations
-
 - *2024.09 - now*, Master Student, School of National Cybersecurity, Wuhan University, China.
 - *2020.09 - 2024.06*, Bachelor, School of Computer Science and Technology, Guangdong University of Technology, China.
