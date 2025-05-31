@@ -43,6 +43,10 @@ redirect_from:
     font-weight: bold;
   }
 
+  .submission-title {
+    font-weight: bold;
+  }
+
   .image-container {
     display: flex;
     justify-content: center;
@@ -100,9 +104,9 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SPMC.png" alt="SPMC"></dt>
-  <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
-  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
-  <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025, <strong><span class="spotlight">Spotlight</span></strong></dd>
+  <dd><a class="publication-title">SPMC: Self-Purifying Federated Backdoor Defense via Margin Contribution</a></dd>
+  <dd><strong>Wenwen He<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Bin Yang*, Shukan Liu, Mang Ye*</dd>
+  <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025</dd>
 </dl>
 
 
@@ -111,9 +115,10 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/MLLM_survey.png" alt="MLLM_survey"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
-  <dd>Wenke Huang<sup>&dagger;</sup>, Jian Liang<sup>&dagger;</sup>, Xianda Guo<sup>&dagger;</sup>, <strong>Yiyang Fang<sup>&dagger;</sup></strong> <strong><span class="co-first">(co-first)</span></strong>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
+  <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
+  <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through
+Malicious Null Space in Federated Backdoor Attack</a></dd>
+  <dd>Wenwen He<sup>;</dd>
   <dd>Under Review</dd>
 </dl>
 
@@ -123,5 +128,5 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 
 # 📖 Educations
 
-- *2024.09 - now*, Master Student, School of Computer Science, Wuhan University, China.
-- *2020.09 - 2024.06*, Bachelor, School of Computer Science and Technology, Shandong University, China.
+- *2024.09 - now*, Master Student, School of National Cybersecurity, Wuhan University, China.
+- *2020.09 - 2024.06*, Bachelor, School of Computer Science and Technology, Guangdong University of Technology, China.
