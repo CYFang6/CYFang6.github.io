@@ -109,20 +109,21 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
   <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025</dd>
 </dl>
 
+<hr>
 
 ## ⌛️ In Submission & Preprint
+
 
 <hr>
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
-  <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through
-Malicious Null Space in Federated Backdoor Attack</a></dd>
-  <dd>Wenwen He</dd>
+  <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
+  <dd><strong>Wenwen He</strong></dd>
   <dd>Under Review</dd>
 </dl>
 
-
+<hr>
 <hr>
 
 # 📖 Educations
