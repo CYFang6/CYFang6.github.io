@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenwen He's Homepage"
+title                    : "Chengying Fang's Homepage"
 description              : ""
-repository               : "https://github.com/WenddHe0119/WenddHe0119.github.io"
+repository               : "https://github.com/CYFang6/CYFang6.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenwen He"
+  name             : "Chengying Fang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Master student at Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=j475zd8AAAAJ"
-  email            : "wenddd@whu.edu.cn"
+  googlescholar    :  # e.g.,"https://scholar.google.com/citations?user=j475zd8AAAAJ"
+  email            : "fangcy@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-5475-7407"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
