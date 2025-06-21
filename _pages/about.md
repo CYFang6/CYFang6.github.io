@@ -82,9 +82,9 @@ redirect_from:
 
 # Short Bio
 
-Hi there! This is Wenwen He (何文文), I am a first-year graduate student at [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [Guangdong University of Technology](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail！
+Hi there! This is Chengying Fang (方程瑛), I am a first-year graduate student at [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [Guangdong University of Technology](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail！
 
-My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
+My research mainly focuses on **Federated Learning** and **Large Language Model**.
 
 
 
@@ -92,7 +92,7 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.05:</em> 🌟 SPMC was accepted to <strong>ICML 2025</strong>.</li>
+  <li><em>2025.05:</em> 🌟 FedPHA was accepted to <strong>ICML 2025</strong>.</li>
 </ul>
 </div>
 
@@ -104,23 +104,9 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SPMC.png" alt="SPMC"></dt>
-  <dd><a class="publication-title">SPMC: Self-Purifying Federated Backdoor Defense via Margin Contribution</a></dd>
-  <dd><strong>Wenwen He<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Bin Yang*, Shukan Liu, Mang Ye*</dd>
+  <dd><a class="publication-title">FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation</a></dd>
+  <dd><strong>Chengying Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup></strong>, Guancheng Wan<sup>&dagger;</sup>, Yihao Yang, Mang Ye*</dd>
   <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025</dd>
-</dl>
-
-<hr>
-
-## ⌛️ In Submission & Preprint
-
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
-  <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
-  <dd><strong>Wenwen He</strong></dd>
-  <dd>Under Review</dd>
 </dl>
 
 <hr>
@@ -129,4 +115,4 @@ My research mainly focuses on **Federated Learning** and **Trustworthy AI**.
 # 📖 Educations
 
 - *2024.09 - now*, Master Student, School of National Cybersecurity, Wuhan University, China.
-- *2020.09 - 2024.06*, Bachelor, School of Computer Science and Technology, Guangdong University of Technology, China.
+- *2020.09 - 2024.06*, Bachelor, School of National Cybersecurity, Wuhan University, China.
