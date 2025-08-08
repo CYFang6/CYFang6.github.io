@@ -107,6 +107,10 @@ My research mainly focuses on **Federated Learning** and **Large Language Model*
   <dd><a class="publication-title">FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation</a></dd>
   <dd><strong>Chengying Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Yihao Yang, Mang Ye*</dd>
   <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025</dd>
+  <dd>
+    <a href="https://openreview.net/forum?id=y7pDvbi9xz" target="_blank">📄 Paper</a> |
+    <a href="https://github.com/CYFang6/FedPHA" target="_blank">💻 Code</a>
+  </dd>
 </dl>
 
 <hr>
